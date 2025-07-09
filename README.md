@@ -10,8 +10,6 @@ Một **project mẫu** giúp bạn nhanh chóng nắm được cách cấu trú
 * [Tính năng](#-tính-năng)
 * [Cài đặt](#-cài-đặt)
 * [Cách sử dụng](#-cách-sử-dụng)
-* [Conventions](#-conventions)
-* [Cách đóng góp](#-cách-đóng-góp)
 * [License](#-license)
 
 ---
