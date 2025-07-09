@@ -1,31 +1,13 @@
 // index.js
 /**
-<<<<<<< Updated upstream
  * A simple demo function.
  * @param {string} name 
  * @returns {string}
-=======
- * @license MIT
- * Copyright (c) 2025 Cao Phan Khải
- * Copyright (c) 2025 Contributor Nguyễn Ngô Hoàng Nguyên
- */
-
-/**
- * Trả về lời chào với tên người dùng.
- * Nếu không có tên, mặc định là "world".
- *
- * @param {string} [name] - Tên người nhận lời chào
- * @returns {string} Lời chào
->>>>>>> Stashed changes
  */
 function sayHello(name) {
   return `Hello, ${name || "world"}!`;
 }
 
-<<<<<<< Updated upstream
-// Run demo
-console.log(sayHello("Open Source"));
-=======
 /**
  * Ví dụ mở rộng: thêm tuỳ chọn chào buổi sáng hoặc buổi chiều.
  *
@@ -55,4 +37,3 @@ function sayGoodNight(name) {
 console.log(sayHello("Open Source"));                // Hello, Open Source!
 console.log(sayTimeBasedHello("Contributor", false)); // Good afternoon, Contributor!
 console.log(sayGoodNight("Everyone"));               // Good night, Everyone!
->>>>>>> Stashed changes
