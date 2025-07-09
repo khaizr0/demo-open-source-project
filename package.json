@@ -15,6 +15,13 @@
     "open-source",
     "template"
   ],
+<<<<<<< Updated upstream
   "author": "Khaizr0",
+=======
+  "author": "Khaizr0 (Cao Phan Khải)",
+    "contributors": [
+    "Contributor Nguyễn Ngô Hoàng Nguyên <nguyen@vanlanguni.vn>"
+  ],
+>>>>>>> Stashed changes
   "license": "MIT"
 }
