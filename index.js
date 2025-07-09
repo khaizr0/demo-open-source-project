@@ -1,6 +1,7 @@
 /**
  * @license MIT
  * Copyright (c) 2025 Cao Phan Khải
+ * Copyright (c) 2025 Contributor Nguyễn Ngô Hoàng Nguyên
  */
 
 /**
