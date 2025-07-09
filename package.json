@@ -16,5 +16,8 @@
     "template"
   ],
   "author": "Khaizr0 (Cao Phan Khải)",
+    "contributors": [
+    "Contributor Nguyễn Ngô Hoàng Nguyên <nguyen@vanlanguni.vn>"
+  ],
   "license": "MIT"
 }
