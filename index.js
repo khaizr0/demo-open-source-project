@@ -1,6 +1,6 @@
 /**
  * @license MIT
- * Copyright (c) 2025 Original Author
+ * Copyright (c) 2025 Cao Phan Khải
  */
 
 /**
