@@ -68,51 +68,6 @@ Hello, Open Source!
 
 ---
 
-## ✍️ Conventions
-
-* **Code style**: 2 spaces, camelCase
-* **Commit message**: theo [Conventional Commits](https://www.conventionalcommits.org/)
-* **Thư mục**:
-
-  * `index.js` – entry point
-  * `package.json` – metadata & scripts
-  * `.gitignore` – loại trừ file
-
----
-
-## 🤝 Cách đóng góp
-
-Cảm ơn bạn đã quan tâm đóng góp! Vui lòng tuân theo các bước sau:
-
-### 📋 Quy ước chung
-
-* Dùng **2 spaces** để indent.
-* Biến và hàm dùng `camelCase`.
-* Comment rõ mục đích function/module.
-
-### 🔀 Quy trình đóng góp
-
-1. Fork repository này
-2. Tạo nhánh mới:
-
-   ```bash
-   git checkout -b feature/your-feature
-   ```
-3. Code & commit với message theo [Conventional Commits](https://www.conventionalcommits.org/)
-4. Push lên fork của bạn:
-
-   ```bash
-   git push origin feature/your-feature
-   ```
-5. Mở Pull Request vào nhánh `main` của repo gốc.
-
-### 🧪 Kiểm tra
-
-* Chạy `npm install` để cài dependencies.
-* Chạy `npm start` để test demo.
-
----
-
 ## 📄 License
 
 This project is licensed under the **MIT License** – xem file [LICENSE](./LICENSE) để biết chi tiết.
